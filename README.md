@@ -6,5 +6,5 @@ for having a great experience for customers to interact with 3D animation buildi
 For better and proper experience open the website in desktop view only.
 ### Check out the website from the following link:-
 http://insaneshiv21.me/3D-animated-website/
-### Visite my LinkdIn profile for amazing websites like this :- 
+### Visite my LinkedIn profile for amazing websites like this :- 
 https://www.linkedin.com/in/shivendra-kumar-singh-7ba1b8208/
