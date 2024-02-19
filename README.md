@@ -5,7 +5,7 @@ Fully made by the help of HTML, CSS, and JavaScript. Took help from thisismagma 
 for having a great experience for customers to interact with 3D animation buildings.
 For better and proper experience open the website in desktop view only.
 ### Check out the website from the following link:-
-http://insaneshiv21.me/3D-animated-website/
+https://shiv3danimated.netlify.app/
 
 ### Here are some samples of this website:- 
 <img width="911" alt="Screenshot 2023-07-24 011109" src="https://github.com/insane21shiv/3D-animated-website/assets/119165586/530c6660-8493-443c-ae7f-3917b889909d">
